@@ -30,3 +30,6 @@ Requirements
 
 Python 3.
 Random module (comes with Python)
+For open Virtual enviorment for Windows: python -m venv venv_name && venv_name\Scripts\activate 
+For open Virtual enviorment for macOS and Linux: python -m venv venv_name && source venv_name/bin/activate
+
